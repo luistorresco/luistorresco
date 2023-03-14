@@ -1,7 +1,39 @@
 # Luis Torres
-## titulo2
-### titulo3
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://user-images.githubusercontent.com/114264579/225048545-a0cfb8ac-e970-4326-affd-62c6957783d4.gif">
+</div>
+
+</br>
+</br>
+</br>
 
 
-![logo](https://firebasestorage.googleapis.com/v0/b/proyecto1cesdelftc.appspot.com/o/imagen1.png?alt=media&token=0679147b-a4ab-48c5-9260-6a7a7099d0c8)
+# About ME 💬 :
+
+### - I'm 35 years  old years old and a programming student from Colombia.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://user-images.githubusercontent.com/114264579/225078365-edf50ee9-2cc9-434f-ad74-406972a19b54.gif">
+
+
+### - Learning :
+- ✨ Programming logic
+- ✨ agile methodologies
+- ✨ introduction to programming
+
+### - Hobbies : 
+- ✨ Traveling by motorcycle and discovering small towns
+- ✨ Riding a bicycle
+- ✨ Playing guitar
+- ✨ Listening to music
+
+</br>
+</br>
+</br>
+
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
