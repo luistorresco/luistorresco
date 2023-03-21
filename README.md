@@ -35,5 +35,11 @@
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
+- ✨Git
+- ✨Github
+- ✨Visual studio code
+- ✨Netbeans
+- ✨Android studio
+
 
 <p align="center">
