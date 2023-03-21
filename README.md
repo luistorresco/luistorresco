@@ -33,13 +33,19 @@
 
 
 
+
+
 # Languages & Tools 👨‍💻 🛠:
 </br>
-- ✨Git
-- ✨Github
-- ✨Visual studio code
-- ✨Netbeans
-- ✨Android studio
 
+<img hight="200" width="300" alt="GIF" align="right" src="https://user-images.githubusercontent.com/114264579/226733804-f3a9c876-a572-47e3-8c05-2ad779bcbe52.gif">
+- ✨Git </br>
+- ✨Github </br>
+- ✨Visual studio code </br>
+- ✨Netbeans </br>
+- ✨Android studio </br>
 
-<p align="center">
+</br>
+</br>
+</br>
+
