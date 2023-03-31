@@ -44,6 +44,9 @@
 - ✨Visual studio code </br>
 - ✨Netbeans </br>
 - ✨Android studio </br>
+- ✨html 5 </br>
+- ✨css </br>
+- ✨java </br>
 
 </br>
 </br>
