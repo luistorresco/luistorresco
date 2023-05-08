@@ -52,3 +52,6 @@
 </br>
 </br>
 
+[![GH stats](https://github-readme-stats.vercel.app/api?username=luistorresco&show_icons=true&theme=nightowl&hide_border=true&bg_color=30%2C000000%2C362060)](https://github.com/luistorresco)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luistorresco&layout=compact&theme=nightowl&hide_border=true&bg_color=30%2C000000%2C362060&langs_count=6&hide=Jupyter%20Notebook%2Chtml)](https://github.com/luistorresco)
