@@ -30,51 +30,72 @@
 
 ---
 
-# 🧰 DevOps Tools & Technologies:
+<h2 align="center">🧰 DevOps Tools & Technologies</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
 ### 🔧 CI/CD & Automation:
-- Jenkins
-- GitHub Actions
-- GitLab CI
-- CircleCI
-- ArgoCD
-
-### 🐳 Containers & Orchestration:
-- Docker
-- Docker Compose
-- Kubernetes (k8s)
-- Helm
-- Minikube / Kind
-
-### ☁️ Cloud Platforms:
-- Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
-- Microsoft Azure
-- Cloudflare
-
-### ⚙️ Infrastructure as Code (IaC):
-- Terraform
-- Pulumi
-- Ansible
-- Packer
-
-### 📈 Monitoring & Logging:
-- Prometheus
-- Grafana
-- Loki
-- ELK Stack (Elasticsearch, Logstash, Kibana)
-- Datadog / New Relic / Dynatrace
+- Jenkins  
+- GitHub Actions  
+- GitLab CI  
+- CircleCI  
+- ArgoCD  
 
 ### 🔒 DevSecOps & Security:
-- HashiCorp Vault
-- Trivy / AquaSec / Clair
-- Snyk
-- Open Policy Agent (OPA)
+- HashiCorp Vault  
+- Trivy / AquaSec / Clair  
+- Snyk  
+- Open Policy Agent (OPA)  
+
+</td>
+<td valign="top" width="33%">
+
+### 🐳 Containers & Orchestration:
+- Docker  
+- Docker Compose  
+- Kubernetes (k8s)  
+- Helm  
+- Minikube / Kind  
+
+### 📈 Monitoring & Logging:
+- Prometheus  
+- Grafana  
+- Loki  
+- ELK Stack  
+- Datadog / New Relic / Dynatrace  
+
+</td>
+<td valign="top" width="33%">
+
+### ⚙️ Infrastructure as Code (IaC):
+- Terraform  
+- Pulumi  
+- Ansible  
+- Packer  
+
+### ☁️ Cloud Platforms:
+- AWS  
+- Google Cloud Platform  
+- Microsoft Azure  
+- Cloudflare  
 
 ### 🔗 Version Control & Collaboration:
-- Git
-- GitHub / GitLab / Bitbucket
-- Slack / Mattermost / Teams
+- Git  
+- GitHub / GitLab / Bitbucket  
+- Slack / Mattermost / Teams  
+
+</td>
+  </tr>
+</table>
+
+</div>
+
+
+
 
 ---
 
